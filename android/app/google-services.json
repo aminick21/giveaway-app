@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "123219098668",
+    "project_id": "give-away-dfd3d",
+    "storage_bucket": "give-away-dfd3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123219098668:android:3cbee5f40dd80407546589",
+        "android_client_info": {
+          "package_name": "com.example.give_away"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123219098668-a8l9k97e9h2s2bis5oejqlot37ea1ila.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.give_away",
+            "certificate_hash": "44fb011bec1885e32305c212354d5b4988bcb0cd"
+          }
+        },
+        {
+          "client_id": "123219098668-ktsdentrh3ldp4ifpr6q03fi2r548rlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgSmj7lgJ_gNkJaK7yQyOXayBvg9BCqok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123219098668-ktsdentrh3ldp4ifpr6q03fi2r548rlf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123219098668-ucajk6umi269unl4tls26g35qdlag2ht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.giveAway"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
