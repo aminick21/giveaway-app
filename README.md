@@ -1,16 +1,33 @@
-# give_away
+🎁 GiveAway App
 
-A new Flutter project.
+📌 About the Project
 
-## Getting Started
+GiveAway is a mobile application built with Flutter that allows users to donate and claim free items effortlessly. It connects people who want to give away items they no longer need with those who can benefit from them.
 
-This project is a starting point for a Flutter application.
+🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+User Authentication (Sign up/Login)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Browse Available Giveaways
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Post Items for Giveaway
+
+Search & Filter Items
+
+Chat System for Communication
+
+Push Notifications
+
+User Profiles & History
+
+🛠️ Tech Stack
+
+Frontend:
+
+Flutter (Dart)
+
+Firebase Authentication
+
+Google Maps API (for item locations)
+
+📱 Screenshots
