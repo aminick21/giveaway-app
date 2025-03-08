@@ -29,8 +29,8 @@ The GiveAway app is powered by a robust Node.js backend, utilizing PostgreSQL as
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/aminick21/giveaway-app/refs/heads/main/app_screenshots/image1.jpg" alt="About the App" width="25%">
-  <img src="https://raw.githubusercontent.com/aminick21/giveaway-app/refs/heads/main/app_screenshots/image2.jpg" alt="About the App" width="25%">
-  <img src="https://raw.githubusercontent.com/aminick21/giveaway-app/refs/heads/main/app_screenshots/image3.jpg" alt="About the App" width="25%">
-  <img src="https://raw.githubusercontent.com/aminick21/giveaway-app/refs/heads/main/app_screenshots/image4.jpg" alt="About the App" width="25%">
+  <img src="https://raw.githubusercontent.com/aminick21/giveaway-app/refs/heads/main/app_screenshots/image1.jpg" alt="About the App" width="22%">
+  <img src="https://raw.githubusercontent.com/aminick21/giveaway-app/refs/heads/main/app_screenshots/image2.jpg" alt="About the App" width="22%">
+  <img src="https://raw.githubusercontent.com/aminick21/giveaway-app/refs/heads/main/app_screenshots/image3.jpg" alt="About the App" width="22%">
+  <img src="https://raw.githubusercontent.com/aminick21/giveaway-app/refs/heads/main/app_screenshots/image4.jpg" alt="About the App" width="22%">
 </div>
