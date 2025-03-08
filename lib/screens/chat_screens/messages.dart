@@ -37,17 +37,11 @@ class _MessagesScreenState extends State<MessagesScreen> {
 
   getToken()async {
     token = await TokenManager.getToken();
-
-    if(token=='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjRkMTI0NWZjZmE3NjJhNTM0MjIxOTciLCJlbWFpbCI6InRlc3QxQGdtYWlsLmNvbSIsImlhdCI6MTcxODY1NDc4OCwiZXhwIjoxNzE5MjU5NTg4fQ.QFlsKop2NatG7smB4KQtCDiWOohBu9fdarYpYoz46To'){
-      senderId='664d1245fcfa762a53422197';
-      receiverId='664d12b9a1d04a83bcd11143';
-    }else{
       senderId='664d12b9a1d04a83bcd11143';
       receiverId='664d1245fcfa762a53422197';
-    }
-
-
   }
+
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

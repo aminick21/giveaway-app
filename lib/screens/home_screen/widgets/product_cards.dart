@@ -187,49 +187,53 @@ class NearByCard extends StatelessWidget {
               )
           ),),
             SizedBox(height: 5,),
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 2),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  Expanded(
-                    child: Text(product.title,
+            Expanded(
+              child: Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 2),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Expanded(
+                      child: Text(product.title,
+                        style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.w500
+                        ),
+                        overflow: TextOverflow.ellipsis,),
+                    ),
+                    Text(product.condition,
                       style: TextStyle(
-                          fontSize: 18,
-                          fontWeight: FontWeight.w500
+                          fontSize: 14,
+                          color: primaryColor
                       ),
                       overflow: TextOverflow.ellipsis,),
-                  ),
-                  Text(product.condition,
-                    style: TextStyle(
-                        fontSize: 14,
-                        color: primaryColor
-                    ),
-                    overflow: TextOverflow.ellipsis,),
-                ],
+                  ],
+                ),
               ),
             ),
 
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 2),
-              child: Row(
-                children: [
-                  Icon(
-                    Icons.location_on,
-                    size: 14,
-                    color: primaryColor,
-                  ),
-                  Expanded(
-                    child: Text(
-                      "${product.location.addressLine}",
-                      overflow: TextOverflow.ellipsis,
-                      style: TextStyle(
-                        fontSize: 14,
-                        color: Colors.grey.shade500
+            Expanded(
+              child: Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 2),
+                child: Row(
+                  children: [
+                    Icon(
+                      Icons.location_on,
+                      size: 14,
+                      color: primaryColor,
+                    ),
+                    Expanded(
+                      child: Text(
+                        "${product.location.addressLine}",
+                        overflow: TextOverflow.ellipsis,
+                        style: TextStyle(
+                          fontSize: 14,
+                          color: Colors.grey.shade500
+                        ),
                       ),
                     ),
-                  ),
-                ],
+                  ],
+                ),
               ),
             ),
           ],
