@@ -28,8 +28,9 @@ This app is powered by a Node.js backend with PostgreSQL and Prisma.
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/screenshots/about.png](https://github.com/aminick21/giveaway-app/blob/main/app_screenshots/image1.jpg" alt="About the App" width="22%">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/screenshots/about.png](https://github.com/aminick21/giveaway-app/blob/main/app_screenshots/image1.jpg" alt="About the App" width="22%">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/screenshots/about.png](https://github.com/aminick21/giveaway-app/blob/main/app_screenshots/image1.jpg" alt="About the App" width="22%">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/screenshots/about.png](https://github.com/aminick21/giveaway-app/blob/main/app_screenshots/image1.jpg" alt="About the App" width="22%">
+  
+  <img src="https://raw.githubusercontent.com/aminick21/giveaway-app/refs/heads/main/app_screenshots/image1.jpg" alt="About the App" width="22%">
+  <img src="https://raw.githubusercontent.com/aminick21/giveaway-app/refs/heads/main/app_screenshots/image2.jpg" alt="About the App" width="22%">
+  <img src="https://raw.githubusercontent.com/aminick21/giveaway-app/refs/heads/main/app_screenshots/image3.jpg" alt="About the App" width="22%">
+  <img src="https://raw.githubusercontent.com/aminick21/giveaway-app/refs/heads/main/app_screenshots/image4.jpg" alt="About the App" width="22%">
 </div>
