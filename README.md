@@ -5,7 +5,7 @@
 GiveAway is a mobile application built with Flutter that allows users to donate and claim free items effortlessly. It connects people who want to give away items they no longer need with those who can benefit from them.
 
 ** 🖥 Backend API**  
-The GiveAway app is powered by a robust Node.js backend, utilizing PostgreSQL as the database and Prisma as the ORM. It ensures seamless data management, real-time interactions, and secure authentication, providing a smooth and efficient experience for users.
+The GiveAway app is powered by a robust Node.js backend, utilizing MongoDb as the database and Mongoose as the ODM. It ensures seamless data management, real-time interactions, and secure authentication, providing a smooth and efficient experience for users.
 🔗 Check out the backend repository here: [GiveAway Backend](https://github.com/aminick21/giveaway-backend)  
 
 
